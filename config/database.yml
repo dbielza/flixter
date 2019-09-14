@@ -19,3 +19,7 @@ production:
   database: flixter_production
   # username: flixter
   # password: <%= ENV['FLIXTER_DATABASE_PASSWORD'] %>
+
+AWS_ACCESS_KEY: "AKIAV4NXIYHDDDIHZMO4"
+AWS_SECRET_KEY: "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"
+AWS_BUCKET: "daniel-flixter-images"
